@@ -5,8 +5,8 @@
 <p align="left"> <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" alt="Linux" width="40" heigth="40"/><img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/> <img src="https://github.com/devicons/devicon/blob/master/icons/unrealengine/unrealengine-original.svg" alt="Unreal Engine" width="40" heigth="40"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg" alt="JS" width="40" heigth="40"/><img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-plain.svg" alt="NodeJS"
 width="40" heigth="40"/><img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="40" heigth="40"/><img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="40" heigth="40"/> 
-<img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg" alt="ExpressJS" width="40" heigth="40"/> </p>
-<img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" alt="Docker" width="40" heigth="40"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg" alt="ExpressJS" width="40" heigth="40"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" alt="Docker" width="40" heigth="40"/></p>
   
 
 <h3 align="left">Languages and Tools:</h3>
