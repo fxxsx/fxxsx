@@ -1,4 +1,4 @@
-## Hi there 👋 I'm Borys
+## Hi there 👋 I'm Borys, a young guy passionate about computers and programming
 ## <p align="left"> Still learning but working on something big🤐</p>
 <body>
   <h3 align="left">Plans for the future:</h3>
