@@ -20,9 +20,8 @@
   <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" title = "Git"width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/windows" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/windows8/windows8-original.svg" alt="windows" title="Windows" width="40" height="40"/> </a>  
   <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" 
   title="Python" width="40" height="40"/> </a> 
-  <a href="https://code.visualstudio.com/"> <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" alt="VScode"  title="VSCode "width="40" height="40"/>
-  
-  <a href="https://github.com/"><img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" alt="GitHub" title="GitHub" width="40" heigth="40"/> </a> </p>
+  <a href="https://code.visualstudio.com/"> <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" alt="VScode"  title="VSCode "width="40" height="40"/> <a href="https://github.com/"><img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" alt="GitHub" title="GitHub" width="40" heigth="40"/> </a> </p>
+
 
 <h3 align="left">Work in Progress:</h3>
 <p style="display: inline"><a href="https://www.cplusplus.com/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1200px-ISO_C%2B%2B_Logo.svg.png" alt="C++" title="C++" width="40" height="45"/></a>
