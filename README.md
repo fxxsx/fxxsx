@@ -1,6 +1,6 @@
 ## Hello there, welcome to my GitHub profile!
 <body>
-  <p>My name is Borys, I'm a Polish Christian who has been learning programming for around 6 months and have been interested in computers since 11, I am especially passionate about game dev, video games and Python in terms of technology. I love what I do and I'm grateful for that to God.</p>
+  <p>My name is Borys, I'm a Polish Christian who has been learning programming for around 6 months and have been interested in computers since 9, I am especially passionate about game dev, video games and Python in terms of technology. I love what I do and I'm grateful for that to God.</p>
   <h3>Contact me</h3>
   <ul>
     <li>Email: nineteenncontact@gmail.com</li>
