@@ -1,6 +1,11 @@
 ## Hi there 👋 I'm Borys, a young guy passionate about computers and programming
-## <p align="left"> Still learning but working on something big🤐</p>
+
 <body>
+  <h3>Contact me</h3>
+  <ul>
+    <li>Email: nineteenncontact@gmail.com</li>
+    <li>Discord: Nineteenn#0609</li>
+  </ul>
   <h3 align="left">Plans for the future:</h3>
   <p align="left"> <a href="https://www.linux.org/"><img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" alt="Linux" title="Linux" width="40" heigth="40"/></a>
   <a href="https://www.javascript.com/"> <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg" alt="JS" title="JavaScript" width="40" heigth="40"/></a> 
