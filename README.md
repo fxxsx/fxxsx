@@ -1,11 +1,18 @@
 ## Hello there, welcome to my GitHub profile!
 <body>
-  <p>My name is Borys, I'm a Polish Christian who has been learning programming since January 2022 and have been interested in computers since 9, I am especially passionate about game dev, video games and Python in terms of technology. I love what I do and I'm grateful for that to God.</p>
+  <p>My name is Borys, I'm a Polish Christian. Learning programming since January 2022. I am especially passionate about game dev, video games and Python in terms of technology. I love what I do and I'm grateful for that to God.</p>
   <h3>Contact me</h3>
   <ul>
     <li>Email: nineteenncontact@gmail.com</li>
     <li>Discord: Nineteenn#0609</li>
   </ul>
+  <h3>Projects</h3>
+  <ul>
+    <li><a href="https://github.com/fxxsx/hl-modding">Half Life Mods</a></li>
+    <li><a href="">Coming Soon...</a></li>
+    <li><a href="">Top Secret</a></li>
+  </ul>
+  
   <h3 align="left">Plans for the future:</h3>
   <p align="left"> <a href="https://www.linux.org/"><img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" alt="Linux" title="Linux" width="40" heigth="40"/></a>
   <a href="https://www.javascript.com/"> <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg" alt="JS" title="JavaScript" width="40" heigth="40"/></a> 
