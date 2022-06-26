@@ -22,8 +22,7 @@
   <a href="https://www.mongodb.com/"><img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" alt="MongoDB"  title="MongoDB" width="40" heigth="40"/></a>
   <a href="https://expressjs.com/"><img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg" alt="ExpressJS" title="ExpressJS" width="40" heigth="40"/></a>
  <a href="https://www.docker.com/"><img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" alt="Docker" title="Docker" width="40" heigth="40"/></a>
- <a href="https://www.typescriptlang.org/"><img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" alt="TS" title="TypeScript" width="40" heigth="40"/></a>
- <a href="https://www.java.com/en/"><img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" alt="Java" title="Java" width="40" heigth="40"/></a> 
+
   
   
 
