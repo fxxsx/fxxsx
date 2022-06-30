@@ -9,8 +9,6 @@
   <h3>Projects</h3>
   <ul>
     <li><a href="https://github.com/fxxsx/hl-modding">Half Life Mods</a></li>
-    <li><a href="">Coming Soon...</a></li>
-    <li><a href="">Top Secret</a></li>
   </ul>
   
   
