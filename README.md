@@ -11,15 +11,7 @@
     <li><a href="https://github.com/fxxsx/hl-modding">Half Life Mods</a></li>
   </ul>
   
-  ### Plans for the future:
-  <p align="left"> <a href="https://www.linux.org/"><img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" alt="Linux" title="Linux" width="40" heigth="40"/></a>
-  <a href="https://www.javascript.com/"> <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg" alt="JS" title="JavaScript" width="40" heigth="40"/></a> 
-  <a href="https://nodejs.org/en/"><img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-plain.svg" alt="NodeJS" title="NodeJS"
-  width="40" heigth="40"/></a> 
-  <a href="https://www.postgresql.org/"><img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL"  title="PostgreSQL" width="40" heigth="40"/></a> 
-  <a href="https://www.mongodb.com/"><img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" alt="MongoDB"  title="MongoDB" width="40" heigth="40"/></a>
-  <a href="https://expressjs.com/"><img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg" alt="ExpressJS" title="ExpressJS" width="40" heigth="40"/></a>
-  
+
   
   <h3 align="left">Languages and Tools:</h3>
   <p align="left"> 
